@@ -13,7 +13,7 @@ class App extends Component {
         </header>
         <div className=" container paper">
         <h1>About Me</h1>
-        <p>Hello. I'm Abdulazeez. I'm a Nigerian. I'm an upcoming Javascript ninja. I'm a beginner in the world of Open Source. I really love <b>Jollof Rice</b>.. This is my first react project so I look on to writing better codes with react as a platform and also contributing to this great project  <b> Sugar Labs. </b>
+        <p>Hello. I'm Abdulazeez. I'm a Nigerian. I'm an upcoming Javascript ninja. I'm a beginner in the world of Open Source. I really love <b>Jollof Rice</b>.. This is my first react/typescript project so I look on to writing better codes with typescript and react as a platform and also contributing to this great project  <b> Sugar Labs. </b>
         </p>
      <h3>My Skills.. </h3>
      <ol>
